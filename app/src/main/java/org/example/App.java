@@ -5,7 +5,7 @@ package org.example;
 
 public class App {
     public String getGreeting() {
-        return "Cambio realizado directamente en main";
+        return "Hola GitHub! Cambio realizado en main y desarrollo.";
     }
 
     public static void main(String[] args) {
