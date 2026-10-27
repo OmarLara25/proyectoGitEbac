@@ -5,7 +5,8 @@ package org.example;
 
 public class App {
     public String getGreeting() {
-        return "Hello World!";
+
+        return "Hola GitHub! Este cambio fue realizado en la rama desarrollo.";
     }
 
     public static void main(String[] args) {
